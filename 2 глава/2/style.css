@@ -1,0 +1,25 @@
+ #head{		
+height: 80px;
+ }
+
+#title{
+size: 26px;
+color: #0f0f0f;
+text-transform: uppercase;
+}
+
+ a{ 
+    text-decoration: none;
+}
+a:hover{
+    color: #ff0000;
+   }
+
+#statya{
+margin-bottom:16px;
+background-color:#cecece;
+}
+
+ #footer{		
+height: 80px;
+ }
