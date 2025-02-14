@@ -1,0 +1,58 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --white: #ffffff;
+  --grey: #899d9d;
+  --background: #1d2f30;
+  --backgroundshade: #0b1919;
+  --greentext: #506829;
+  --primarygreen: #bae249;
+  --greenactiveclick: #688b05;
+  --greenfocus: #83a440;
+  --greenhover: #91ac46;
+  --red: #e24949;
+
+  /* Fonts */
+  --h1-font-family: Cormorant-Bold, sans-serif;
+  --h1-font-size: 60px;
+  --h1-line-height: 100%;
+  --h1-font-weight: 700;
+  --h1-font-style: normal;
+  --h3-font-family: Cormorant-Bold, sans-serif;
+  --h3-font-size: 24px;
+  --h3-line-height: 150%;
+  --h3-font-weight: 700;
+  --h3-font-style: normal;
+  --h2-font-family: Cormorant-BoldItalic, sans-serif;
+  --h2-font-size: 48px;
+  --h2-line-height: 100%;
+  --h2-font-weight: 700;
+  --h2-font-style: italic;
+  --p1regular-font-family: OpenSans-Regular, sans-serif;
+  --p1regular-font-size: 16px;
+  --p1regular-line-height: 150%;
+  --p1regular-font-weight: 400;
+  --p1regular-font-style: normal;
+  --p2open-sans-font-family: OpenSans-Regular, sans-serif;
+  --p2open-sans-font-size: 12px;
+  --p2open-sans-line-height: normal;
+  --p2open-sans-font-weight: 400;
+  --p2open-sans-font-style: normal;
+  --p1bold-font-family: OpenSans-Bold, sans-serif;
+  --p1bold-font-size: 16px;
+  --p1bold-line-height: normal;
+  --p1bold-font-weight: 700;
+  --p1bold-font-style: normal;
+  --p1cormorant-font-family: Cormorant-Bold, sans-serif;
+  --p1cormorant-font-size: 16px;
+  --p1cormorant-line-height: normal;
+  --p1cormorant-font-weight: 700;
+  --p1cormorant-font-style: normal;
+  --h1mobile-font-family: Cormorant-Bold, sans-serif;
+  --h1mobile-font-size: 48px;
+  --h1mobile-line-height: 100%;
+  --h1mobile-font-weight: 700;
+  --h1mobile-font-style: normal;
+
+  /* Effects */
+}
